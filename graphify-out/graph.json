@@ -1,0 +1,2607 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "AARADHYA_MASTER_v119.md",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119",
+      "community": 0,
+      "norm_label": "aaradhya_master_v119.md"
+    },
+    {
+      "label": "AARADHYA DEV TAMRAKAR \u2014 Master Profile v119",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_aaradhya_dev_tamrakar_master_profile_v119",
+      "community": 1,
+      "norm_label": "aaradhya dev tamrakar \u2014 master profile v119"
+    },
+    {
+      "label": "\ud83d\udccb Session Loading Instructions",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L69",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_session_loading_instructions",
+      "community": 11,
+      "norm_label": "\ud83d\udccb session loading instructions"
+    },
+    {
+      "label": "\ud83d\udd04 Cross-Document Consistency Check (AUTO-TRIGGER)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L80",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_cross_document_consistency_check_auto_trigger",
+      "community": 11,
+      "norm_label": "\ud83d\udd04 cross-document consistency check (auto-trigger)"
+    },
+    {
+      "label": "\ud83d\udcc5 CV & Portfolio Last-Updated Sync Check (AUTO-TRIGGER)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L115",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_cv_portfolio_last_updated_sync_check_auto_trigger",
+      "community": 11,
+      "norm_label": "\ud83d\udcc5 cv & portfolio last-updated sync check (auto-trigger)"
+    },
+    {
+      "label": "\ud83d\udcc5 Temporal Status Verification (AUTO-TRIGGER)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L128",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_temporal_status_verification_auto_trigger",
+      "community": 11,
+      "norm_label": "\ud83d\udcc5 temporal status verification (auto-trigger)"
+    },
+    {
+      "label": "\ud83d\udca1 Claude Pro ROI (AUTO-TRIGGER)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L164",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_claude_pro_roi_auto_trigger",
+      "community": 11,
+      "norm_label": "\ud83d\udca1 claude pro roi (auto-trigger)"
+    },
+    {
+      "label": "\ud83c\udfe6 Banking & Subscriptions",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L178",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_banking_subscriptions",
+      "community": 9,
+      "norm_label": "\ud83c\udfe6 banking & subscriptions"
+    },
+    {
+      "label": "Siddhartha Bank (SBL)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L180",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_siddhartha_bank_sbl",
+      "community": 9,
+      "norm_label": "siddhartha bank (sbl)"
+    },
+    {
+      "label": "Planned Subscriptions",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L189",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_planned_subscriptions",
+      "community": 9,
+      "norm_label": "planned subscriptions"
+    },
+    {
+      "label": "Claude Pro ROI Assessment",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L195",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_claude_pro_roi_assessment",
+      "community": 9,
+      "norm_label": "claude pro roi assessment"
+    },
+    {
+      "label": "Effort Level & Thinking Mode \u2014 Optimal Usage Guide",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L206",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_effort_level_thinking_mode_optimal_usage_guide",
+      "community": 9,
+      "norm_label": "effort level & thinking mode \u2014 optimal usage guide"
+    },
+    {
+      "label": "\ud83d\udd11 Accounts & Identities",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L229",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_accounts_identities",
+      "community": 1,
+      "norm_label": "\ud83d\udd11 accounts & identities"
+    },
+    {
+      "label": "Major Project Group Accounts",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L242",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_major_project_group_accounts",
+      "community": 1,
+      "norm_label": "major project group accounts"
+    },
+    {
+      "label": "\ud83e\uddd1 Personal Identity",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L254",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_personal_identity",
+      "community": 10,
+      "norm_label": "\ud83e\uddd1 personal identity"
+    },
+    {
+      "label": "Vedic Astrology",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L269",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_vedic_astrology",
+      "community": 10,
+      "norm_label": "vedic astrology"
+    },
+    {
+      "label": "Planetary Positions",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L278",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_planetary_positions",
+      "community": 10,
+      "norm_label": "planetary positions"
+    },
+    {
+      "label": "House Placements",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L293",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_house_placements",
+      "community": 10,
+      "norm_label": "house placements"
+    },
+    {
+      "label": "Chart Highlights",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L304",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_chart_highlights",
+      "community": 10,
+      "norm_label": "chart highlights"
+    },
+    {
+      "label": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc66 Family Background",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L314",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_family_background",
+      "community": 1,
+      "norm_label": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc66 family background"
+    },
+    {
+      "label": "Generational Context",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L326",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_generational_context",
+      "community": 1,
+      "norm_label": "generational context"
+    },
+    {
+      "label": "Health",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L348",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_health",
+      "community": 1,
+      "norm_label": "health"
+    },
+    {
+      "label": "\ud83c\udf93 Academic Background",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L357",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_academic_background",
+      "community": 6,
+      "norm_label": "\ud83c\udf93 academic background"
+    },
+    {
+      "label": "Current Subjects (IV/I \u2014 7th Semester)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L366",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_current_subjects_iv_i_7th_semester",
+      "community": 6,
+      "norm_label": "current subjects (iv/i \u2014 7th semester)"
+    },
+    {
+      "label": "IV/II Subjects (8th Semester \u2014 incoming, Sep 2026)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L371",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_iv_ii_subjects_8th_semester_incoming_sep_2026",
+      "community": 6,
+      "norm_label": "iv/ii subjects (8th semester \u2014 incoming, sep 2026)"
+    },
+    {
+      "label": "IV/I Exam Schedule (2083 \u2014 Test 1)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L376",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_iv_i_exam_schedule_2083_test_1",
+      "community": 6,
+      "norm_label": "iv/i exam schedule (2083 \u2014 test 1)"
+    },
+    {
+      "label": "Study Resource Assets (assembled June 2026)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L389",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_study_resource_assets_assembled_june_2026",
+      "community": 6,
+      "norm_label": "study resource assets (assembled june 2026)"
+    },
+    {
+      "label": "Study Hub Method (from CT 655 / III/II finals)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L397",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_study_hub_method_from_ct_655_iii_ii_finals",
+      "community": 6,
+      "norm_label": "study hub method (from ct 655 / iii/ii finals)"
+    },
+    {
+      "label": "BEI Curriculum Coverage (Full \u2014 for project framing)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L408",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_bei_curriculum_coverage_full_for_project_framing",
+      "community": 6,
+      "norm_label": "bei curriculum coverage (full \u2014 for project framing)"
+    },
+    {
+      "label": "\ud83d\udcbc Professional & Organizational Roles",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L421",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_professional_organizational_roles",
+      "community": 1,
+      "norm_label": "\ud83d\udcbc professional & organizational roles"
+    },
+    {
+      "label": "\ud83c\udfe2 Screened Opportunities",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L435",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_screened_opportunities",
+      "community": 1,
+      "norm_label": "\ud83c\udfe2 screened opportunities"
+    },
+    {
+      "label": "\ud83c\udf10 Actual Situation & Path (as of June 2026)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L443",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_actual_situation_path_as_of_june_2026",
+      "community": 8,
+      "norm_label": "\ud83c\udf10 actual situation & path (as of june 2026)"
+    },
+    {
+      "label": "Where things stand",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L447",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_where_things_stand",
+      "community": 8,
+      "norm_label": "where things stand"
+    },
+    {
+      "label": "The actual path",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L453",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_the_actual_path",
+      "community": 8,
+      "norm_label": "the actual path"
+    },
+    {
+      "label": "The honest constraints",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L522",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_the_honest_constraints",
+      "community": 8,
+      "norm_label": "the honest constraints"
+    },
+    {
+      "label": "What would constitute success by March 2027",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L528",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_what_would_constitute_success_by_march_2027",
+      "community": 8,
+      "norm_label": "what would constitute success by march 2027"
+    },
+    {
+      "label": "\ud83d\udee0\ufe0f Projects",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L538",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_projects",
+      "community": 3,
+      "norm_label": "\ud83d\udee0\ufe0f projects"
+    },
+    {
+      "label": "1. Gesture-Controlled Self-Balancing Robot (GCSBR) \u2014 Minor Project *(Completed)*",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L540",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_1_gesture_controlled_self_balancing_robot_gcsbr_minor_project_completed",
+      "community": 3,
+      "norm_label": "1. gesture-controlled self-balancing robot (gcsbr) \u2014 minor project *(completed)*"
+    },
+    {
+      "label": "2. Text-to-SQL Agentic Pipeline (Fusemachines Week 3) *(Completed)*",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L551",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_2_text_to_sql_agentic_pipeline_fusemachines_week_3_completed",
+      "community": 3,
+      "norm_label": "2. text-to-sql agentic pipeline (fusemachines week 3) *(completed)*"
+    },
+    {
+      "label": "3. Telco Customer Churn & CLV Machine Learning Pipeline (Fusemachines Week 4) *(Completed)*",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L562",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_3_telco_customer_churn_clv_machine_learning_pipeline_fusemachines_week_4_completed",
+      "community": 3,
+      "norm_label": "3. telco customer churn & clv machine learning pipeline (fusemachines week 4) *(completed)*"
+    },
+    {
+      "label": "4. Telco Churn Tree-Based Ensemble Pipeline (Fusemachines Week 5) *(Completed)*",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L574",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_4_telco_churn_tree_based_ensemble_pipeline_fusemachines_week_5_completed",
+      "community": 3,
+      "norm_label": "4. telco churn tree-based ensemble pipeline (fusemachines week 5) *(completed)*"
+    },
+    {
+      "label": "5. Alpha Android Super-App *(Active)*",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L590",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_5_alpha_android_super_app_active",
+      "community": 3,
+      "norm_label": "5. alpha android super-app *(active)*"
+    },
+    {
+      "label": "6. Edge AI Stability Detection System *(Completed)*",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L598",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_6_edge_ai_stability_detection_system_completed",
+      "community": 3,
+      "norm_label": "6. edge ai stability detection system *(completed)*"
+    },
+    {
+      "label": "7. SysOptimizer \u2014 Windows Optimization Tool *(v5 Active)*",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L607",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_7_sysoptimizer_windows_optimization_tool_v5_active",
+      "community": 3,
+      "norm_label": "7. sysoptimizer \u2014 windows optimization tool *(v5 active)*"
+    },
+    {
+      "label": "8. Major Project \u2014 PrakopNet *(Idea D \u2014 CONFIRMED PRIMARY, June 8, 2026)*",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L615",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_8_major_project_prakopnet_idea_d_confirmed_primary_june_8_2026",
+      "community": 3,
+      "norm_label": "8. major project \u2014 prakopnet *(idea d \u2014 confirmed primary, june 8, 2026)*"
+    },
+    {
+      "label": "9. Custom Processor FSM Design *(Completed \u2014 Coursework)*",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L794",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_9_custom_processor_fsm_design_completed_coursework",
+      "community": 3,
+      "norm_label": "9. custom processor fsm design *(completed \u2014 coursework)*"
+    },
+    {
+      "label": "10. Fusemachines AI Fellowship Prep Toolkit *(Completed)*[cite: 9]",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L801",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_10_fusemachines_ai_fellowship_prep_toolkit_completed_cite_9",
+      "community": 3,
+      "norm_label": "10. fusemachines ai fellowship prep toolkit *(completed)*[cite: 9]"
+    },
+    {
+      "label": "11. Fusemachines Week 6 Probabilistic Models Assignment *(Completed)*",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L804",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_11_fusemachines_week_6_probabilistic_models_assignment_completed",
+      "community": 3,
+      "norm_label": "11. fusemachines week 6 probabilistic models assignment *(completed)*"
+    },
+    {
+      "label": "12. Fusemachines Week 7 Clustering Assignment *(Completed \u2014 June 12, 2026)*",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L812",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_12_fusemachines_week_7_clustering_assignment_completed_june_12_2026",
+      "community": 3,
+      "norm_label": "12. fusemachines week 7 clustering assignment *(completed \u2014 june 12, 2026)*"
+    },
+    {
+      "label": "13. RF and Microwave Engineering Lab Reports *(Active \u2014 June 2026)*",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L824",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_13_rf_and_microwave_engineering_lab_reports_active_june_2026",
+      "community": 3,
+      "norm_label": "13. rf and microwave engineering lab reports *(active \u2014 june 2026)*"
+    },
+    {
+      "label": "14. Antenna Lab Data Analysis[cite: 9]",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L830",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_14_antenna_lab_data_analysis_cite_9",
+      "community": 3,
+      "norm_label": "14. antenna lab data analysis[cite: 9]"
+    },
+    {
+      "label": "15. Nexus \u2014 Personal AI Operating System *(Active \u2014 T13+T14 done June 13, 2026)*",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L833",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_15_nexus_personal_ai_operating_system_active_t13_t14_done_june_13_2026",
+      "community": 3,
+      "norm_label": "15. nexus \u2014 personal ai operating system *(active \u2014 t13+t14 done june 13, 2026)*"
+    },
+    {
+      "label": "\ud83c\udfc5 Project Ranking (v5 \u2014 May 2026)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L913",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_project_ranking_v5_may_2026",
+      "community": 1,
+      "norm_label": "\ud83c\udfc5 project ranking (v5 \u2014 may 2026)"
+    },
+    {
+      "label": "\ud83d\udd27 Fellowship Dev Standards \u2014 12-Factor Pre-Commit Checklist (\u00a716)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L937",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_fellowship_dev_standards_12_factor_pre_commit_checklist_16",
+      "community": 13,
+      "norm_label": "\ud83d\udd27 fellowship dev standards \u2014 12-factor pre-commit checklist (\u00a716)"
+    },
+    {
+      "label": "The 12 Factors \u2014 Pre-Commit Verification",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L943",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_the_12_factors_pre_commit_verification",
+      "community": 13,
+      "norm_label": "the 12 factors \u2014 pre-commit verification"
+    },
+    {
+      "label": "Quick Pre-Commit Command Sequence (Fellowship Standard)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L960",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_quick_pre_commit_command_sequence_fellowship_standard",
+      "community": 13,
+      "norm_label": "quick pre-commit command sequence (fellowship standard)"
+    },
+    {
+      "label": "Per-Repo Compliance Status",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L979",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_per_repo_compliance_status",
+      "community": 13,
+      "norm_label": "per-repo compliance status"
+    },
+    {
+      "label": "\ud83d\udcdd Instructor Feedback Log",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L991",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_instructor_feedback_log",
+      "community": 13,
+      "norm_label": "\ud83d\udcdd instructor feedback log"
+    },
+    {
+      "label": "\ud83c\udf10 Portfolio Website \u2014 aaradhyadtmr.github.io",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1001",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_portfolio_website_aaradhyadtmr_github_io",
+      "community": 1,
+      "norm_label": "\ud83c\udf10 portfolio website \u2014 aaradhyadtmr.github.io"
+    },
+    {
+      "label": "Animation System (as of May 30, 2026)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1069",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_animation_system_as_of_may_30_2026",
+      "community": 1,
+      "norm_label": "animation system (as of may 30, 2026)"
+    },
+    {
+      "label": "Pending Fixes",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1104",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_pending_fixes",
+      "community": 1,
+      "norm_label": "pending fixes"
+    },
+    {
+      "label": "\ud83c\udf10 KEC Makerspace Website \u2014 `KEC-innovation/makerspace-main`",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1127",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_kec_makerspace_website_kec_innovation_makerspace_main",
+      "community": 7,
+      "norm_label": "\ud83c\udf10 kec makerspace website \u2014 `kec-innovation/makerspace-main`"
+    },
+    {
+      "label": "Workflow established (June 17, 2026)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1131",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_workflow_established_june_17_2026",
+      "community": 7,
+      "norm_label": "workflow established (june 17, 2026)"
+    },
+    {
+      "label": "Round 1 \u2014 site-wide bug fixes (shipped)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1134",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_round_1_site_wide_bug_fixes_shipped",
+      "community": 7,
+      "norm_label": "round 1 \u2014 site-wide bug fixes (shipped)"
+    },
+    {
+      "label": "Round 2 \u2014 follow-up audit findings (open)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1142",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_round_2_follow_up_audit_findings_open",
+      "community": 7,
+      "norm_label": "round 2 \u2014 follow-up audit findings (open)"
+    },
+    {
+      "label": "Round 3 \u2014 font audit (root-caused, prompts written)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1149",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_round_3_font_audit_root_caused_prompts_written",
+      "community": 7,
+      "norm_label": "round 3 \u2014 font audit (root-caused, prompts written)"
+    },
+    {
+      "label": "Round 4 \u2014 navbar animation/hover (proposed)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1152",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_round_4_navbar_animation_hover_proposed",
+      "community": 7,
+      "norm_label": "round 4 \u2014 navbar animation/hover (proposed)"
+    },
+    {
+      "label": "Pending / needs Aaradhya's input",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1155",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_pending_needs_aaradhya_s_input",
+      "community": 7,
+      "norm_label": "pending / needs aaradhya's input"
+    },
+    {
+      "label": "\ud83d\udd2c Algoverse AI Research Application",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1167",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_algoverse_ai_research_application",
+      "community": 1,
+      "norm_label": "\ud83d\udd2c algoverse ai research application"
+    },
+    {
+      "label": "\ud83c\udfc5 DataCamp Certification Plan",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1178",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_datacamp_certification_plan",
+      "community": 12,
+      "norm_label": "\ud83c\udfc5 datacamp certification plan"
+    },
+    {
+      "label": "Phase 1 \u2014 Completed (Applied AI)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1182",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_phase_1_completed_applied_ai",
+      "community": 12,
+      "norm_label": "phase 1 \u2014 completed (applied ai)"
+    },
+    {
+      "label": "Phase 2 \u2014 Now \u2192 June 2026",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1186",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_phase_2_now_june_2026",
+      "community": 12,
+      "norm_label": "phase 2 \u2014 now \u2192 june 2026"
+    },
+    {
+      "label": "Phase 3 \u2014 June \u2192 Sept 2026 (post-fellowship)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1192",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_phase_3_june_sept_2026_post_fellowship",
+      "community": 12,
+      "norm_label": "phase 3 \u2014 june \u2192 sept 2026 (post-fellowship)"
+    },
+    {
+      "label": "Phase 4 \u2014 Pre-graduation (Oct 2026 \u2013 Jan 2027)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1198",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_phase_4_pre_graduation_oct_2026_jan_2027",
+      "community": 12,
+      "norm_label": "phase 4 \u2014 pre-graduation (oct 2026 \u2013 jan 2027)"
+    },
+    {
+      "label": "\ud83c\udfaf NI Certification Career Plan",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1206",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_ni_certification_career_plan",
+      "community": 1,
+      "norm_label": "\ud83c\udfaf ni certification career plan"
+    },
+    {
+      "label": "\ud83d\udee0\ufe0f Fellowships & Recognitions Updates (CV Section View)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1214",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_fellowships_recognitions_updates_cv_section_view",
+      "community": 1,
+      "norm_label": "\ud83d\udee0\ufe0f fellowships & recognitions updates (cv section view)"
+    },
+    {
+      "label": "NSSR DataCamp Fellow \u2014 Cohort 2 (Active) | 2026 \u2013 Present",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1216",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_nssr_datacamp_fellow_cohort_2_active_2026_present",
+      "community": 1,
+      "norm_label": "nssr datacamp fellow \u2014 cohort 2 (active) | 2026 \u2013 present"
+    },
+    {
+      "label": "\ud83e\udde0 Skills & Stack",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1225",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_skills_stack",
+      "community": 5,
+      "norm_label": "\ud83e\udde0 skills & stack"
+    },
+    {
+      "label": "Programming",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1227",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_programming",
+      "community": 5,
+      "norm_label": "programming"
+    },
+    {
+      "label": "Machine Learning",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1230",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_machine_learning",
+      "community": 5,
+      "norm_label": "machine learning"
+    },
+    {
+      "label": "Android Development",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1233",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_android_development",
+      "community": 5,
+      "norm_label": "android development"
+    },
+    {
+      "label": "Deployment",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1236",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_deployment",
+      "community": 5,
+      "norm_label": "deployment"
+    },
+    {
+      "label": "Embedded Systems & Digital Design",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1239",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_embedded_systems_digital_design",
+      "community": 5,
+      "norm_label": "embedded systems & digital design"
+    },
+    {
+      "label": "AI / Local LLM / Prompt Engineering",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1242",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_ai_local_llm_prompt_engineering",
+      "community": 5,
+      "norm_label": "ai / local llm / prompt engineering"
+    },
+    {
+      "label": "Tools",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1245",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_tools",
+      "community": 5,
+      "norm_label": "tools"
+    },
+    {
+      "label": "System Setup",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1248",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_system_setup",
+      "community": 5,
+      "norm_label": "system setup"
+    },
+    {
+      "label": "Fan / Thermal Issue \u2014 Diagnosed & Resolved (June 17, 2026)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1253",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_fan_thermal_issue_diagnosed_resolved_june_17_2026",
+      "community": 5,
+      "norm_label": "fan / thermal issue \u2014 diagnosed & resolved (june 17, 2026)"
+    },
+    {
+      "label": "Dual-Boot, Partition Layout & BitLocker (set up June 2026)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1269",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_dual_boot_partition_layout_bitlocker_set_up_june_2026",
+      "community": 5,
+      "norm_label": "dual-boot, partition layout & bitlocker (set up june 2026)"
+    },
+    {
+      "label": "C: Drive Storage Notes (June 2026)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1289",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_c_drive_storage_notes_june_2026",
+      "community": 5,
+      "norm_label": "c: drive storage notes (june 2026)"
+    },
+    {
+      "label": "\ud83c\udfc6 Technical Activities & Certifications",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1297",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_technical_activities_certifications",
+      "community": 1,
+      "norm_label": "\ud83c\udfc6 technical activities & certifications"
+    },
+    {
+      "label": "\ud83c\udfb5 Personal Interests & Life",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1310",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_personal_interests_life",
+      "community": 14,
+      "norm_label": "\ud83c\udfb5 personal interests & life"
+    },
+    {
+      "label": "LEO Club (Lions International)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1312",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_leo_club_lions_international",
+      "community": 14,
+      "norm_label": "leo club (lions international)"
+    },
+    {
+      "label": "Music",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1318",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_music",
+      "community": 14,
+      "norm_label": "music"
+    },
+    {
+      "label": "Perfumery",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1322",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_perfumery",
+      "community": 14,
+      "norm_label": "perfumery"
+    },
+    {
+      "label": "Motorcycles",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1327",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_motorcycles",
+      "community": 14,
+      "norm_label": "motorcycles"
+    },
+    {
+      "label": "\ud83e\udde0 Thinking Style & Claude Preferences",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1332",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_thinking_style_claude_preferences",
+      "community": 1,
+      "norm_label": "\ud83e\udde0 thinking style & claude preferences"
+    },
+    {
+      "label": "\ud83d\udcca Profile Self-Assessment",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1345",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_profile_self_assessment",
+      "community": 1,
+      "norm_label": "\ud83d\udcca profile self-assessment"
+    },
+    {
+      "label": "\ud83d\ude80 Trajectory",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1358",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_trajectory",
+      "community": 1,
+      "norm_label": "\ud83d\ude80 trajectory"
+    },
+    {
+      "label": "What matters in the next 18 months (in order)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1366",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_what_matters_in_the_next_18_months_in_order",
+      "community": 1,
+      "norm_label": "what matters in the next 18 months (in order)"
+    },
+    {
+      "label": "\ud83d\ude80 Semantic LLM Mode Activation (Graphify)",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1374",
+      "_origin": "ast",
+      "id": "aaradhya_master_v119_semantic_llm_mode_activation_graphify",
+      "community": 1,
+      "norm_label": "\ud83d\ude80 semantic llm mode activation (graphify)"
+    },
+    {
+      "label": "W8_Forecasting_Task_Plan_v1.md",
+      "file_type": "document",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "w8_forecasting_task_plan_v1",
+      "community": 0,
+      "norm_label": "w8_forecasting_task_plan_v1.md"
+    },
+    {
+      "label": "W8 Forecasting \u2014 Complete Task Plan v1",
+      "file_type": "document",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "w8_forecasting_task_plan_v1_w8_forecasting_complete_task_plan_v1",
+      "community": 2,
+      "norm_label": "w8 forecasting \u2014 complete task plan v1"
+    },
+    {
+      "label": "Repo Name Decision",
+      "file_type": "document",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "w8_forecasting_task_plan_v1_repo_name_decision",
+      "community": 2,
+      "norm_label": "repo name decision"
+    },
+    {
+      "label": "Repo Structure (mirror Wk7)",
+      "file_type": "document",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L23",
+      "_origin": "ast",
+      "id": "w8_forecasting_task_plan_v1_repo_structure_mirror_wk7",
+      "community": 2,
+      "norm_label": "repo structure (mirror wk7)"
+    },
+    {
+      "label": "Master Execution Plan",
+      "file_type": "document",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L40",
+      "_origin": "ast",
+      "id": "w8_forecasting_task_plan_v1_master_execution_plan",
+      "community": 2,
+      "norm_label": "master execution plan"
+    },
+    {
+      "label": "Pre-flight (30 min \u2014 do before Day 1 coding)",
+      "file_type": "document",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L42",
+      "_origin": "ast",
+      "id": "w8_forecasting_task_plan_v1_pre_flight_30_min_do_before_day_1_coding",
+      "community": 2,
+      "norm_label": "pre-flight (30 min \u2014 do before day 1 coding)"
+    },
+    {
+      "label": "Day 1 (Fri Jun 27) \u2014 Phase 0 + Phase 1 (Parts 1\u20132, Q1\u2013Q10)",
+      "file_type": "document",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L52",
+      "_origin": "ast",
+      "id": "w8_forecasting_task_plan_v1_day_1_fri_jun_27_phase_0_phase_1_parts_1_2_q1_q10",
+      "community": 2,
+      "norm_label": "day 1 (fri jun 27) \u2014 phase 0 + phase 1 (parts 1\u20132, q1\u2013q10)"
+    },
+    {
+      "label": "Phase 0 \u2014 Data Preparation (Q1\u2013Q5)",
+      "file_type": "document",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L56",
+      "_origin": "ast",
+      "id": "w8_forecasting_task_plan_v1_phase_0_data_preparation_q1_q5",
+      "community": 2,
+      "norm_label": "phase 0 \u2014 data preparation (q1\u2013q5)"
+    },
+    {
+      "label": "Phase 1 \u2014 Classical Models + SARIMA (Q6\u2013Q10)",
+      "file_type": "document",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L132",
+      "_origin": "ast",
+      "id": "w8_forecasting_task_plan_v1_phase_1_classical_models_sarima_q6_q10",
+      "community": 2,
+      "norm_label": "phase 1 \u2014 classical models + sarima (q6\u2013q10)"
+    },
+    {
+      "label": "Day 2 (Sat Jun 28) \u2014 Phase 2 + Phase 3 (Parts 3\u20135, Q11\u2013Q18)",
+      "file_type": "document",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L237",
+      "_origin": "ast",
+      "id": "w8_forecasting_task_plan_v1_day_2_sat_jun_28_phase_2_phase_3_parts_3_5_q11_q18",
+      "community": 2,
+      "norm_label": "day 2 (sat jun 28) \u2014 phase 2 + phase 3 (parts 3\u20135, q11\u2013q18)"
+    },
+    {
+      "label": "Phase 2 \u2014 Prophet + Feature Engineering (Q11\u2013Q13)",
+      "file_type": "document",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L241",
+      "_origin": "ast",
+      "id": "w8_forecasting_task_plan_v1_phase_2_prophet_feature_engineering_q11_q13",
+      "community": 2,
+      "norm_label": "phase 2 \u2014 prophet + feature engineering (q11\u2013q13)"
+    },
+    {
+      "label": "Phase 3 \u2014 ML + Deep Learning (Q14\u2013Q18)",
+      "file_type": "document",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L314",
+      "_origin": "ast",
+      "id": "w8_forecasting_task_plan_v1_phase_3_ml_deep_learning_q14_q18",
+      "community": 2,
+      "norm_label": "phase 3 \u2014 ml + deep learning (q14\u2013q18)"
+    },
+    {
+      "label": "Day 3 (Sun Jun 29) \u2014 Phase 4 (Parts 6\u20137, Q19\u2013Q23) + Final Pass",
+      "file_type": "document",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L469",
+      "_origin": "ast",
+      "id": "w8_forecasting_task_plan_v1_day_3_sun_jun_29_phase_4_parts_6_7_q19_q23_final_pass",
+      "community": 2,
+      "norm_label": "day 3 (sun jun 29) \u2014 phase 4 (parts 6\u20137, q19\u2013q23) + final pass"
+    },
+    {
+      "label": "Phase 4 \u2014 Evaluation, Error Analysis, Business Output (Q19\u2013Q23)",
+      "file_type": "document",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L476",
+      "_origin": "ast",
+      "id": "w8_forecasting_task_plan_v1_phase_4_evaluation_error_analysis_business_output_q19_q23",
+      "community": 2,
+      "norm_label": "phase 4 \u2014 evaluation, error analysis, business output (q19\u2013q23)"
+    },
+    {
+      "label": "Discussion Questions \u2014 Full Draft (all 8)",
+      "file_type": "document",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L617",
+      "_origin": "ast",
+      "id": "w8_forecasting_task_plan_v1_discussion_questions_full_draft_all_8",
+      "community": 2,
+      "norm_label": "discussion questions \u2014 full draft (all 8)"
+    },
+    {
+      "label": "AI Prompt Critique Log Template",
+      "file_type": "document",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L642",
+      "_origin": "ast",
+      "id": "w8_forecasting_task_plan_v1_ai_prompt_critique_log_template",
+      "community": 2,
+      "norm_label": "ai prompt critique log template"
+    },
+    {
+      "label": "Final Deliverable Checklist (before sync)",
+      "file_type": "document",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L666",
+      "_origin": "ast",
+      "id": "w8_forecasting_task_plan_v1_final_deliverable_checklist_before_sync",
+      "community": 2,
+      "norm_label": "final deliverable checklist (before sync)"
+    },
+    {
+      "label": "Notebook quality",
+      "file_type": "document",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L668",
+      "_origin": "ast",
+      "id": "w8_forecasting_task_plan_v1_notebook_quality",
+      "community": 2,
+      "norm_label": "notebook quality"
+    },
+    {
+      "label": "Files",
+      "file_type": "document",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L679",
+      "_origin": "ast",
+      "id": "w8_forecasting_task_plan_v1_files",
+      "community": 2,
+      "norm_label": "files"
+    },
+    {
+      "label": "12-Factor pre-commit checklist (\u00a716)",
+      "file_type": "document",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L689",
+      "_origin": "ast",
+      "id": "w8_forecasting_task_plan_v1_12_factor_pre_commit_checklist_16",
+      "community": 2,
+      "norm_label": "12-factor pre-commit checklist (\u00a716)"
+    },
+    {
+      "label": "Commit sequence",
+      "file_type": "document",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L695",
+      "_origin": "ast",
+      "id": "w8_forecasting_task_plan_v1_commit_sequence",
+      "community": 2,
+      "norm_label": "commit sequence"
+    },
+    {
+      "label": "Fallback Priority (if 3-day budget breaks)",
+      "file_type": "document",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L705",
+      "_origin": "ast",
+      "id": "w8_forecasting_task_plan_v1_fallback_priority_if_3_day_budget_breaks",
+      "community": 2,
+      "norm_label": "fallback priority (if 3-day budget breaks)"
+    },
+    {
+      "label": "Master Profile Update Trigger (post-completion)",
+      "file_type": "document",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L723",
+      "_origin": "ast",
+      "id": "w8_forecasting_task_plan_v1_master_profile_update_trigger_post_completion",
+      "community": 2,
+      "norm_label": "master profile update trigger (post-completion)"
+    },
+    {
+      "label": "Forecasting Project",
+      "file_type": "document",
+      "source_file": "W8_Forecasting_Project_Guide.pdf",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 4,
+      "norm_label": "forecasting project",
+      "id": "w8_forecasting_project_guide_forecasting_project"
+    },
+    {
+      "label": "Portfolio Website",
+      "file_type": "code",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "community": 0,
+      "norm_label": "portfolio website",
+      "id": "aaradhyadtmr_github_io"
+    },
+    {
+      "label": "PrakopNet: Solar-Powered LoRa Mesh Multi-Hazard EWS",
+      "file_type": "concept",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "community": 0,
+      "norm_label": "prakopnet: solar-powered lora mesh multi-hazard ews",
+      "id": "prakopnet"
+    },
+    {
+      "label": "Nexus: Personal AI Operating System",
+      "file_type": "code",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "community": 0,
+      "norm_label": "nexus: personal ai operating system",
+      "id": "nexus"
+    },
+    {
+      "label": "Fusemachines AI Fellowship 2026",
+      "file_type": "concept",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "community": 0,
+      "norm_label": "fusemachines ai fellowship 2026",
+      "id": "fuse_ai_fellowship"
+    },
+    {
+      "label": "S&P 500 Forecasting Project (Wk 8)",
+      "file_type": "code",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "community": 0,
+      "norm_label": "s&p 500 forecasting project (wk 8)",
+      "id": "fuseaif_wk8_sp500_forecasting"
+    },
+    {
+      "label": "Gesture-Controlled Self-Balancing Robot",
+      "file_type": "code",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "community": 0,
+      "norm_label": "gesture-controlled self-balancing robot",
+      "id": "gcsbr"
+    },
+    {
+      "label": "KEC Makerspace Website",
+      "file_type": "code",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "community": 0,
+      "norm_label": "kec makerspace website",
+      "id": "kec_makerspace_site"
+    },
+    {
+      "label": "NSSR DataCamp Fellowship",
+      "file_type": "concept",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "community": 0,
+      "norm_label": "nssr datacamp fellowship",
+      "id": "nssr_datacamp_fellowship"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119",
+      "target": "aaradhya_master_v119_aaradhya_dev_tamrakar_master_profile_v119",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source": "aaradhya_master_v119",
+      "target": "aaradhyadtmr_github_io"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source": "aaradhya_master_v119",
+      "target": "fuse_ai_fellowship"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source": "aaradhya_master_v119",
+      "target": "nexus"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source": "aaradhya_master_v119",
+      "target": "nssr_datacamp_fellowship"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source": "aaradhya_master_v119",
+      "target": "prakopnet"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L357",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_aaradhya_dev_tamrakar_master_profile_v119",
+      "target": "aaradhya_master_v119_academic_background",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L229",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_aaradhya_dev_tamrakar_master_profile_v119",
+      "target": "aaradhya_master_v119_accounts_identities",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L443",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_aaradhya_dev_tamrakar_master_profile_v119",
+      "target": "aaradhya_master_v119_actual_situation_path_as_of_june_2026",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1167",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_aaradhya_dev_tamrakar_master_profile_v119",
+      "target": "aaradhya_master_v119_algoverse_ai_research_application",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L178",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_aaradhya_dev_tamrakar_master_profile_v119",
+      "target": "aaradhya_master_v119_banking_subscriptions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1178",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_aaradhya_dev_tamrakar_master_profile_v119",
+      "target": "aaradhya_master_v119_datacamp_certification_plan",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L314",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_aaradhya_dev_tamrakar_master_profile_v119",
+      "target": "aaradhya_master_v119_family_background",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L937",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_aaradhya_dev_tamrakar_master_profile_v119",
+      "target": "aaradhya_master_v119_fellowship_dev_standards_12_factor_pre_commit_checklist_16",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1214",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_aaradhya_dev_tamrakar_master_profile_v119",
+      "target": "aaradhya_master_v119_fellowships_recognitions_updates_cv_section_view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1127",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_aaradhya_dev_tamrakar_master_profile_v119",
+      "target": "aaradhya_master_v119_kec_makerspace_website_kec_innovation_makerspace_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1206",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_aaradhya_dev_tamrakar_master_profile_v119",
+      "target": "aaradhya_master_v119_ni_certification_career_plan",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L254",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_aaradhya_dev_tamrakar_master_profile_v119",
+      "target": "aaradhya_master_v119_personal_identity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1310",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_aaradhya_dev_tamrakar_master_profile_v119",
+      "target": "aaradhya_master_v119_personal_interests_life",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1001",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_aaradhya_dev_tamrakar_master_profile_v119",
+      "target": "aaradhya_master_v119_portfolio_website_aaradhyadtmr_github_io",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L421",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_aaradhya_dev_tamrakar_master_profile_v119",
+      "target": "aaradhya_master_v119_professional_organizational_roles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1345",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_aaradhya_dev_tamrakar_master_profile_v119",
+      "target": "aaradhya_master_v119_profile_self_assessment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L913",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_aaradhya_dev_tamrakar_master_profile_v119",
+      "target": "aaradhya_master_v119_project_ranking_v5_may_2026",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L538",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_aaradhya_dev_tamrakar_master_profile_v119",
+      "target": "aaradhya_master_v119_projects",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1374",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_aaradhya_dev_tamrakar_master_profile_v119",
+      "target": "aaradhya_master_v119_semantic_llm_mode_activation_graphify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L69",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_aaradhya_dev_tamrakar_master_profile_v119",
+      "target": "aaradhya_master_v119_session_loading_instructions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1225",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_aaradhya_dev_tamrakar_master_profile_v119",
+      "target": "aaradhya_master_v119_skills_stack",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1297",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_aaradhya_dev_tamrakar_master_profile_v119",
+      "target": "aaradhya_master_v119_technical_activities_certifications",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1332",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_aaradhya_dev_tamrakar_master_profile_v119",
+      "target": "aaradhya_master_v119_thinking_style_claude_preferences",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1358",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_aaradhya_dev_tamrakar_master_profile_v119",
+      "target": "aaradhya_master_v119_trajectory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L164",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_session_loading_instructions",
+      "target": "aaradhya_master_v119_claude_pro_roi_auto_trigger",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L80",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_session_loading_instructions",
+      "target": "aaradhya_master_v119_cross_document_consistency_check_auto_trigger",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L115",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_session_loading_instructions",
+      "target": "aaradhya_master_v119_cv_portfolio_last_updated_sync_check_auto_trigger",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L128",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_session_loading_instructions",
+      "target": "aaradhya_master_v119_temporal_status_verification_auto_trigger",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L195",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_banking_subscriptions",
+      "target": "aaradhya_master_v119_claude_pro_roi_assessment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L206",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_banking_subscriptions",
+      "target": "aaradhya_master_v119_effort_level_thinking_mode_optimal_usage_guide",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L189",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_banking_subscriptions",
+      "target": "aaradhya_master_v119_planned_subscriptions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L180",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_banking_subscriptions",
+      "target": "aaradhya_master_v119_siddhartha_bank_sbl",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L242",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_accounts_identities",
+      "target": "aaradhya_master_v119_major_project_group_accounts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L304",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_personal_identity",
+      "target": "aaradhya_master_v119_chart_highlights",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L293",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_personal_identity",
+      "target": "aaradhya_master_v119_house_placements",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L278",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_personal_identity",
+      "target": "aaradhya_master_v119_planetary_positions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L269",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_personal_identity",
+      "target": "aaradhya_master_v119_vedic_astrology",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L326",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_family_background",
+      "target": "aaradhya_master_v119_generational_context",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L348",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_family_background",
+      "target": "aaradhya_master_v119_health",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L408",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_academic_background",
+      "target": "aaradhya_master_v119_bei_curriculum_coverage_full_for_project_framing",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L366",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_academic_background",
+      "target": "aaradhya_master_v119_current_subjects_iv_i_7th_semester",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L376",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_academic_background",
+      "target": "aaradhya_master_v119_iv_i_exam_schedule_2083_test_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L371",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_academic_background",
+      "target": "aaradhya_master_v119_iv_ii_subjects_8th_semester_incoming_sep_2026",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L397",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_academic_background",
+      "target": "aaradhya_master_v119_study_hub_method_from_ct_655_iii_ii_finals",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L389",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_academic_background",
+      "target": "aaradhya_master_v119_study_resource_assets_assembled_june_2026",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L435",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_professional_organizational_roles",
+      "target": "aaradhya_master_v119_screened_opportunities",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L453",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_actual_situation_path_as_of_june_2026",
+      "target": "aaradhya_master_v119_the_actual_path",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L522",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_actual_situation_path_as_of_june_2026",
+      "target": "aaradhya_master_v119_the_honest_constraints",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L528",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_actual_situation_path_as_of_june_2026",
+      "target": "aaradhya_master_v119_what_would_constitute_success_by_march_2027",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L447",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_actual_situation_path_as_of_june_2026",
+      "target": "aaradhya_master_v119_where_things_stand",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L801",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_projects",
+      "target": "aaradhya_master_v119_10_fusemachines_ai_fellowship_prep_toolkit_completed_cite_9",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L804",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_projects",
+      "target": "aaradhya_master_v119_11_fusemachines_week_6_probabilistic_models_assignment_completed",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L812",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_projects",
+      "target": "aaradhya_master_v119_12_fusemachines_week_7_clustering_assignment_completed_june_12_2026",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L824",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_projects",
+      "target": "aaradhya_master_v119_13_rf_and_microwave_engineering_lab_reports_active_june_2026",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L830",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_projects",
+      "target": "aaradhya_master_v119_14_antenna_lab_data_analysis_cite_9",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L833",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_projects",
+      "target": "aaradhya_master_v119_15_nexus_personal_ai_operating_system_active_t13_t14_done_june_13_2026",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L540",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_projects",
+      "target": "aaradhya_master_v119_1_gesture_controlled_self_balancing_robot_gcsbr_minor_project_completed",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L551",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_projects",
+      "target": "aaradhya_master_v119_2_text_to_sql_agentic_pipeline_fusemachines_week_3_completed",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L562",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_projects",
+      "target": "aaradhya_master_v119_3_telco_customer_churn_clv_machine_learning_pipeline_fusemachines_week_4_completed",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L574",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_projects",
+      "target": "aaradhya_master_v119_4_telco_churn_tree_based_ensemble_pipeline_fusemachines_week_5_completed",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L590",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_projects",
+      "target": "aaradhya_master_v119_5_alpha_android_super_app_active",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L598",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_projects",
+      "target": "aaradhya_master_v119_6_edge_ai_stability_detection_system_completed",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L607",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_projects",
+      "target": "aaradhya_master_v119_7_sysoptimizer_windows_optimization_tool_v5_active",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L615",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_projects",
+      "target": "aaradhya_master_v119_8_major_project_prakopnet_idea_d_confirmed_primary_june_8_2026",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L794",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_projects",
+      "target": "aaradhya_master_v119_9_custom_processor_fsm_design_completed_coursework",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L991",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_fellowship_dev_standards_12_factor_pre_commit_checklist_16",
+      "target": "aaradhya_master_v119_instructor_feedback_log",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L979",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_fellowship_dev_standards_12_factor_pre_commit_checklist_16",
+      "target": "aaradhya_master_v119_per_repo_compliance_status",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L960",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_fellowship_dev_standards_12_factor_pre_commit_checklist_16",
+      "target": "aaradhya_master_v119_quick_pre_commit_command_sequence_fellowship_standard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L943",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_fellowship_dev_standards_12_factor_pre_commit_checklist_16",
+      "target": "aaradhya_master_v119_the_12_factors_pre_commit_verification",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1069",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_portfolio_website_aaradhyadtmr_github_io",
+      "target": "aaradhya_master_v119_animation_system_as_of_may_30_2026",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1104",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_portfolio_website_aaradhyadtmr_github_io",
+      "target": "aaradhya_master_v119_pending_fixes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1155",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_kec_makerspace_website_kec_innovation_makerspace_main",
+      "target": "aaradhya_master_v119_pending_needs_aaradhya_s_input",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1134",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_kec_makerspace_website_kec_innovation_makerspace_main",
+      "target": "aaradhya_master_v119_round_1_site_wide_bug_fixes_shipped",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1142",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_kec_makerspace_website_kec_innovation_makerspace_main",
+      "target": "aaradhya_master_v119_round_2_follow_up_audit_findings_open",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1149",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_kec_makerspace_website_kec_innovation_makerspace_main",
+      "target": "aaradhya_master_v119_round_3_font_audit_root_caused_prompts_written",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1152",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_kec_makerspace_website_kec_innovation_makerspace_main",
+      "target": "aaradhya_master_v119_round_4_navbar_animation_hover_proposed",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1131",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_kec_makerspace_website_kec_innovation_makerspace_main",
+      "target": "aaradhya_master_v119_workflow_established_june_17_2026",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1182",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_datacamp_certification_plan",
+      "target": "aaradhya_master_v119_phase_1_completed_applied_ai",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1186",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_datacamp_certification_plan",
+      "target": "aaradhya_master_v119_phase_2_now_june_2026",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1192",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_datacamp_certification_plan",
+      "target": "aaradhya_master_v119_phase_3_june_sept_2026_post_fellowship",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1198",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_datacamp_certification_plan",
+      "target": "aaradhya_master_v119_phase_4_pre_graduation_oct_2026_jan_2027",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1216",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_fellowships_recognitions_updates_cv_section_view",
+      "target": "aaradhya_master_v119_nssr_datacamp_fellow_cohort_2_active_2026_present",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1242",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_skills_stack",
+      "target": "aaradhya_master_v119_ai_local_llm_prompt_engineering",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1233",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_skills_stack",
+      "target": "aaradhya_master_v119_android_development",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1289",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_skills_stack",
+      "target": "aaradhya_master_v119_c_drive_storage_notes_june_2026",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1236",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_skills_stack",
+      "target": "aaradhya_master_v119_deployment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1269",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_skills_stack",
+      "target": "aaradhya_master_v119_dual_boot_partition_layout_bitlocker_set_up_june_2026",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1239",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_skills_stack",
+      "target": "aaradhya_master_v119_embedded_systems_digital_design",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1253",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_skills_stack",
+      "target": "aaradhya_master_v119_fan_thermal_issue_diagnosed_resolved_june_17_2026",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1230",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_skills_stack",
+      "target": "aaradhya_master_v119_machine_learning",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1227",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_skills_stack",
+      "target": "aaradhya_master_v119_programming",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1248",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_skills_stack",
+      "target": "aaradhya_master_v119_system_setup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1245",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_skills_stack",
+      "target": "aaradhya_master_v119_tools",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1312",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_personal_interests_life",
+      "target": "aaradhya_master_v119_leo_club_lions_international",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1327",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_personal_interests_life",
+      "target": "aaradhya_master_v119_motorcycles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1318",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_personal_interests_life",
+      "target": "aaradhya_master_v119_music",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1322",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_personal_interests_life",
+      "target": "aaradhya_master_v119_perfumery",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source_location": "L1366",
+      "weight": 1.0,
+      "source": "aaradhya_master_v119_trajectory",
+      "target": "aaradhya_master_v119_what_matters_in_the_next_18_months_in_order",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source": "w8_forecasting_task_plan_v1",
+      "target": "fuse_ai_fellowship"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source": "w8_forecasting_task_plan_v1",
+      "target": "fuseaif_wk8_sp500_forecasting"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "w8_forecasting_task_plan_v1",
+      "target": "w8_forecasting_task_plan_v1_w8_forecasting_complete_task_plan_v1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L642",
+      "weight": 1.0,
+      "source": "w8_forecasting_task_plan_v1_w8_forecasting_complete_task_plan_v1",
+      "target": "w8_forecasting_task_plan_v1_ai_prompt_critique_log_template",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "w8_forecasting_task_plan_v1_w8_forecasting_complete_task_plan_v1",
+      "target": "w8_forecasting_task_plan_v1_day_1_fri_jun_27_phase_0_phase_1_parts_1_2_q1_q10",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L237",
+      "weight": 1.0,
+      "source": "w8_forecasting_task_plan_v1_w8_forecasting_complete_task_plan_v1",
+      "target": "w8_forecasting_task_plan_v1_day_2_sat_jun_28_phase_2_phase_3_parts_3_5_q11_q18",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L469",
+      "weight": 1.0,
+      "source": "w8_forecasting_task_plan_v1_w8_forecasting_complete_task_plan_v1",
+      "target": "w8_forecasting_task_plan_v1_day_3_sun_jun_29_phase_4_parts_6_7_q19_q23_final_pass",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L617",
+      "weight": 1.0,
+      "source": "w8_forecasting_task_plan_v1_w8_forecasting_complete_task_plan_v1",
+      "target": "w8_forecasting_task_plan_v1_discussion_questions_full_draft_all_8",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L705",
+      "weight": 1.0,
+      "source": "w8_forecasting_task_plan_v1_w8_forecasting_complete_task_plan_v1",
+      "target": "w8_forecasting_task_plan_v1_fallback_priority_if_3_day_budget_breaks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L666",
+      "weight": 1.0,
+      "source": "w8_forecasting_task_plan_v1_w8_forecasting_complete_task_plan_v1",
+      "target": "w8_forecasting_task_plan_v1_final_deliverable_checklist_before_sync",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "w8_forecasting_task_plan_v1_w8_forecasting_complete_task_plan_v1",
+      "target": "w8_forecasting_task_plan_v1_master_execution_plan",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L723",
+      "weight": 1.0,
+      "source": "w8_forecasting_task_plan_v1_w8_forecasting_complete_task_plan_v1",
+      "target": "w8_forecasting_task_plan_v1_master_profile_update_trigger_post_completion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "w8_forecasting_task_plan_v1_w8_forecasting_complete_task_plan_v1",
+      "target": "w8_forecasting_task_plan_v1_repo_name_decision",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "w8_forecasting_task_plan_v1_w8_forecasting_complete_task_plan_v1",
+      "target": "w8_forecasting_task_plan_v1_repo_structure_mirror_wk7",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "w8_forecasting_task_plan_v1_master_execution_plan",
+      "target": "w8_forecasting_task_plan_v1_pre_flight_30_min_do_before_day_1_coding",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L56",
+      "weight": 1.0,
+      "source": "w8_forecasting_task_plan_v1_day_1_fri_jun_27_phase_0_phase_1_parts_1_2_q1_q10",
+      "target": "w8_forecasting_task_plan_v1_phase_0_data_preparation_q1_q5",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L132",
+      "weight": 1.0,
+      "source": "w8_forecasting_task_plan_v1_day_1_fri_jun_27_phase_0_phase_1_parts_1_2_q1_q10",
+      "target": "w8_forecasting_task_plan_v1_phase_1_classical_models_sarima_q6_q10",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L241",
+      "weight": 1.0,
+      "source": "w8_forecasting_task_plan_v1_day_2_sat_jun_28_phase_2_phase_3_parts_3_5_q11_q18",
+      "target": "w8_forecasting_task_plan_v1_phase_2_prophet_feature_engineering_q11_q13",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L314",
+      "weight": 1.0,
+      "source": "w8_forecasting_task_plan_v1_day_2_sat_jun_28_phase_2_phase_3_parts_3_5_q11_q18",
+      "target": "w8_forecasting_task_plan_v1_phase_3_ml_deep_learning_q14_q18",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L476",
+      "weight": 1.0,
+      "source": "w8_forecasting_task_plan_v1_day_3_sun_jun_29_phase_4_parts_6_7_q19_q23_final_pass",
+      "target": "w8_forecasting_task_plan_v1_phase_4_evaluation_error_analysis_business_output_q19_q23",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L689",
+      "weight": 1.0,
+      "source": "w8_forecasting_task_plan_v1_final_deliverable_checklist_before_sync",
+      "target": "w8_forecasting_task_plan_v1_12_factor_pre_commit_checklist_16",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L695",
+      "weight": 1.0,
+      "source": "w8_forecasting_task_plan_v1_final_deliverable_checklist_before_sync",
+      "target": "w8_forecasting_task_plan_v1_commit_sequence",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L679",
+      "weight": 1.0,
+      "source": "w8_forecasting_task_plan_v1_final_deliverable_checklist_before_sync",
+      "target": "w8_forecasting_task_plan_v1_files",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W8_Forecasting_Task_Plan_v1.md",
+      "source_location": "L668",
+      "weight": 1.0,
+      "source": "w8_forecasting_task_plan_v1_final_deliverable_checklist_before_sync",
+      "target": "w8_forecasting_task_plan_v1_notebook_quality",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source": "aaradhyadtmr_github_io",
+      "target": "kec_makerspace_site"
+    },
+    {
+      "relation": "inherits",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source": "prakopnet",
+      "target": "gcsbr"
+    },
+    {
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AARADHYA_MASTER_v119.md",
+      "source": "nexus",
+      "target": "fuse_ai_fellowship"
+    }
+  ],
+  "hyperedges": []
+}

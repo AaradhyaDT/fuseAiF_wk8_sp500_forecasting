@@ -1,0 +1,101 @@
+{
+  "communities": {
+    "0": [
+      "aaradhya_master_v119",
+      "fuse_ai_fellowship",
+      "nexus",
+      "nssr_datacamp_fellowship"
+    ],
+    "1": [
+      "aaradhyadtmr_github_io",
+      "kec_makerspace_site"
+    ],
+    "2": [
+      "fuseaif_wk8_sp500_forecasting",
+      "w8_forecasting_task_plan_v1"
+    ],
+    "3": [
+      "gcsbr",
+      "prakopnet"
+    ],
+    "4": [
+      "w8_forecasting_project_guide_forecasting_project"
+    ]
+  },
+  "cohesion": {
+    "0": 0.6666666666666666,
+    "1": 1.0,
+    "2": 1.0,
+    "3": 1.0,
+    "4": 1.0
+  },
+  "gods": [
+    {
+      "id": "aaradhya_master_v119",
+      "label": "Aaradhya Dev Tamrakar Master Profile v119",
+      "degree": 5
+    },
+    {
+      "id": "fuse_ai_fellowship",
+      "label": "Fusemachines AI Fellowship 2026",
+      "degree": 3
+    },
+    {
+      "id": "w8_forecasting_task_plan_v1",
+      "label": "W8 Forecasting Task Plan v1",
+      "degree": 2
+    },
+    {
+      "id": "aaradhyadtmr_github_io",
+      "label": "Portfolio Website",
+      "degree": 2
+    },
+    {
+      "id": "prakopnet",
+      "label": "PrakopNet: Solar-Powered LoRa Mesh Multi-Hazard EWS",
+      "degree": 2
+    },
+    {
+      "id": "nexus",
+      "label": "Nexus: Personal AI Operating System",
+      "degree": 2
+    },
+    {
+      "id": "fuseaif_wk8_sp500_forecasting",
+      "label": "S&P 500 Forecasting Project (Wk 8)",
+      "degree": 1
+    },
+    {
+      "id": "gcsbr",
+      "label": "Gesture-Controlled Self-Balancing Robot",
+      "degree": 1
+    },
+    {
+      "id": "kec_makerspace_site",
+      "label": "KEC Makerspace Website",
+      "degree": 1
+    },
+    {
+      "id": "nssr_datacamp_fellowship",
+      "label": "NSSR DataCamp Fellowship",
+      "degree": 1
+    }
+  ],
+  "surprises": [
+    {
+      "source": "W8 Forecasting Task Plan v1",
+      "target": "Fusemachines AI Fellowship 2026",
+      "source_files": [
+        "W8_Forecasting_Task_Plan_v1.md",
+        "AARADHYA_MASTER_v119.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories; bridges separate communities"
+    }
+  ],
+  "tokens": {
+    "input": 53807,
+    "output": 1716
+  }
+}
