@@ -1,15 +1,90 @@
 {
-  "AARADHYA_MASTER_v119.md": {
-    "mtime": 1782441088.3238356,
-    "ast_hash": "3d04c4fcd879ad2d6a43cd4b149605f3",
+  "tools/check_wk8_cells.py": {
+    "mtime": 1782552912.877641,
+    "ast_hash": "fa890ed9cc49c142ff49c823f779aac7",
     "semantic_hash": ""
   },
-  "W8_Forecasting_Task_Plan_v1.md": {
+  "tools/dump_wk8_cells.py": {
+    "mtime": 1782552942.7095735,
+    "ast_hash": "a42d50017e2f24a20e95e0e4f4426fd2",
+    "semantic_hash": ""
+  },
+  "tools/find_q22.py": {
+    "mtime": 1782552950.4430907,
+    "ast_hash": "bf8f8043499cd0a58bf9d497691de424",
+    "semantic_hash": ""
+  },
+  "tools/find_wk8_none.py": {
+    "mtime": 1782552957.2270122,
+    "ast_hash": "cb65c72c5cdccc5a6f467d72fca7db25",
+    "semantic_hash": ""
+  },
+  "tools/inspect_wk8_bad_cells.py": {
+    "mtime": 1782552959.0118032,
+    "ast_hash": "9ac1970678fb8c323ea6f3881b440181",
+    "semantic_hash": ""
+  },
+  "tools/inspect_wk8_notebook.py": {
+    "mtime": 1782552960.5102246,
+    "ast_hash": "0dede2c1cc16120d30e6d022bd3473b5",
+    "semantic_hash": ""
+  },
+  "tools/patch_q22.py": {
+    "mtime": 1782553004.7161543,
+    "ast_hash": "5b488b8d85e2b6f368ac502bfb865dfd",
+    "semantic_hash": ""
+  },
+  "tools/patch_wk8_extra.py": {
+    "mtime": 1782553004.7161543,
+    "ast_hash": "4eb7304370a24bb163e01034d44c44be",
+    "semantic_hash": ""
+  },
+  "tools/patch_wk8_issues.py": {
+    "mtime": 1782553004.7161543,
+    "ast_hash": "81d39a671cddab8f67ff488e8c667396",
+    "semantic_hash": ""
+  },
+  "tools/patch_wk8_notebook.py": {
+    "mtime": 1782553004.7181609,
+    "ast_hash": "2fab95814c5cb26166983da53d4bd407",
+    "semantic_hash": ""
+  },
+  "tools/patch_wk8_q2.py": {
+    "mtime": 1782553004.7181609,
+    "ast_hash": "5331186caa4a78b2b42e925061a6c6eb",
+    "semantic_hash": ""
+  },
+  "tools/patch_wk8_q2_ye.py": {
+    "mtime": 1782553004.7181609,
+    "ast_hash": "2da98fa57244fd83b8628621e55370fa",
+    "semantic_hash": ""
+  },
+  "tools/verify_wk8_notebook.py": {
+    "mtime": 1782553004.7181609,
+    "ast_hash": "92533058ab4826c9a4be0cafb5bc1244",
+    "semantic_hash": ""
+  },
+  "AARADHYA_MASTER_v120.md": {
+    "mtime": 1782444375.6842697,
+    "ast_hash": "bd48f2cb404732810f97c8e77588a30b",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1782445816.5952075,
+    "ast_hash": "c356dc2a230248152c4a49c68ee2a97f",
+    "semantic_hash": ""
+  },
+  "docs/W8_Forecasting_Task_Plan_v1.md": {
     "mtime": 1782441630.3756979,
     "ast_hash": "24a8fb604bbb71a26ca799a00195528d",
     "semantic_hash": ""
   },
-  "W8_Forecasting_Project_Guide.pdf": {
+  "misc/verify_output.txt": {
+    "mtime": 1782444083.645005,
+    "ast_hash": "0796d73523ca95998036987bfd42e4a9",
+    "semantic_hash": ""
+  },
+  "docs/W8_Forecasting_Project_Guide.pdf": {
     "mtime": 1782441272.3733282,
     "ast_hash": "036fe7fbe5cf632296c868bc15269d04",
     "semantic_hash": ""

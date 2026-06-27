@@ -1,6 +1,6 @@
 import json
 from pathlib import Path
-path = Path('W8_Forecasting_Assignment.ipynb')
+path = Path(__file__).resolve().parent.parent / 'W8_Forecasting_Assignment.ipynb'
 nb = json.loads(path.read_text(encoding='utf-8'))
 for i, cell in enumerate(nb['cells']):
     if cell.get('cell_type') != 'code':
